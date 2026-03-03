@@ -1,0 +1,122 @@
+{
+  "id": "bc-g45-french",
+  "name": "BC - Grade 4/5 French Immersion",
+  "description": "Standard curriculum subjects and evaluation dictionaries for Grade 4/5.",
+  "dropdowns": {
+      "Intro Comment": [
+          "It has been a pleasure getting to know {N} better this term, watching {x} develop both confidence and curiousity in many areas.",
+          "{N} has shown remarkable growth in both skills and attitude throughout this term, making steady progress towards {o} goals.",
+          "{N} has made an excellent start to the school year, fully engaging with new challenges and displaying a keen enthusiasm for learning.",
+          "It continues to be a joy to work with {N} as {p} consistently demonstrates a positive attitude and a willingness to contribute to class discussions.",
+          "Over this term, {N} has built strong foundations in key learning areas and developed valuable skills that will support continued success.",
+          "I have been impressed by {N}’s dedication and focus, which have helped {x} achieve significant progress both academically and personally.",
+          "{N} approaches each lesson with energy and a readiness to learn, making our classroom a richer and more vibrant learning community.",
+          "This term, {N} has consistently demonstrated resilience and enthusiasm, often extending {o} learning beyond the lesson requirements.",
+          "It has been wonderful to see {N}’s confidence grow, especially as {p} takes on new responsibilities and challenges with maturity.",
+          "{N}’s positive mindset and eagerness to participate mean that {p} plays an active role in our classroom’s success and positive culture.",
+          "Throughout this term, {N} has shown great perseverance and a strong commitment to achieving {o} personal best in all tasks.",
+          "It has been rewarding to observe {N}’s progress as {p} applies feedback constructively and continuously seeks to improve.",
+          "{N} has embraced this term’s learning opportunities with enthusiasm and has demonstrated increasing independence in completing tasks."
+      ],
+      "Character Comment #1": [
+          "active", "adaptable", "analytical", "attentive", "calm", "cheerful", "compassionate",
+          "confident", "cooperative", "creative", "curious", "dedicated", "diligent", "empathetic",
+          "energetic", "engaged", "enthusiastic", "flexible", "friendly", "hardworking", "helpful",
+          "imaginative", "independent", "kind-hearted", "motivated", "optimistic", "organized",
+          "patient", "persistent", "perseverant", "polite", "quiet", "reliable", "resourceful",
+          "resilient", "respectful", "responsible", "self-disciplined", "social", "supportive",
+          "team-oriented", "thoughtful"
+      ],
+      "Character Comment #2": [
+          "active", "adaptable", "analytical", "attentive", "calm", "cheerful", "compassionate",
+          "confident", "cooperative", "creative", "curious", "dedicated", "diligent", "empathetic",
+          "energetic", "engaged", "enthusiastic", "flexible", "friendly", "hardworking", "helpful",
+          "imaginative", "independent", "kind-hearted", "motivated", "optimistic", "organized",
+          "patient", "persistent", "perseverant", "polite", "quiet", "reliable", "resourceful",
+          "resilient", "respectful", "responsible", "self-disciplined", "social", "supportive",
+          "team-oriented", "thoughtful"
+      ],
+      "Character Comment #3": [
+          "actively participates in class activities and discussions, showing eagerness to contribute and a genuine interest in exploring new ideas.",
+          "engages confidently in lessons, consistently sharing insights that enrich class conversations and support peer learning.",
+          "gets along well with {o} peers, demonstrating respect and kindness that foster positive and cooperative relationships.",
+          "is friendly and approachable, easily building rapport with classmates and contributing to a positive classroom atmosphere.",
+          "is always willing to help {o} teacher and peers, showing generosity with time and willingness to support others whenever needed.",
+          ", whether assisting with tasks or offering encouragement, {N} demonstrates a thoughtful and helpful attitude that benefits the whole class.",
+          "enjoys sharing {o} ideas with the class, actively expressing opinions and listening attentively to others, which promotes a rich learning environment.",
+          "articulates thoughts clearly and is eager to engage in meaningful dialogue, contributing positively to group discussions.",
+          "always has a positive attitude, approaching challenges with resilience and an open mind that inspires classmates",
+          "embraces new learning opportunities with enthusiasm and maintains a cheerful and constructive outlook in all situations.",
+          "works well both independently and in groups, showing the ability to focus on tasks alone and collaborate effectively with others.",
+          "adapts smoothly between solo projects and team activities, contributing valuable ideas and respecting others’ perspectives throughout.",
+          "is a dependable member of our classroom community, consistently demonstrating responsibility, punctuality, and trustworthiness in all class learning opportunities.",
+          "takes ownership of personal learning and classroom roles, presenting a mature attitude that positively influences peers.",
+          "consistently puts great effort into {o} learning, showing dedication to improving, and a desire to achieve {o} best.",
+          "through persistence and attention to detail, {N} makes steady progress and approaches all tasks with commitment and care.",
+          "is very likable and social and is working towards differentiating between social time and independant learning time. ",
+          "is working towards persevering through challenging learning tasks.",
+          "is learning to select appropriate learning tools to help them focus and sustain {o} attention during independent learning tasks. "
+      ],
+      "Core Competency Closing Comments": [
+          "I look forward to another successful term with {N}, confident that {p} will continue to develop new skills and embrace fresh challenges with enthusiasm.",
+          "{N} has had a fantastic term—well done! Keep up the excellent work and maintain this positive momentum moving forward.",
+          "Next term, I am excited to see {N} demonstrate the full range of abilities {p} is capable of, building on the strong foundations established so far.",
+          "I eagerly anticipate being part of {N}’s ongoing learning journey and watching {x} grow intellectually and personally in the coming term.",
+          "It will be a real pleasure to continue supporting {N} as {p} explores new topics and reaches new milestones in learning next term.",
+          "I look forward to seeing {N}’s confidence blossom further, as {p} takes on new opportunities and develops a stronger sense of self-belief.",
+          "Congratulations on another successful term of learning, {N}! Your hard work and dedication have been impressive, and I am proud of all you have achieved.",
+          "I wish {N} the very best of luck in middle school next year and am confident that {p} will thrive in the next stage of {o} education.",
+          "Good luck with your learning next year, {N}. I am sure you will approach new experiences with the same positivity and determination you’ve shown here.",
+          "I wish {N} continued success and enjoyment in learning throughout the next academic year and beyond.",
+          "Congratulations on a successful year of learning, {N}! I wish you all the best as you move forward and look forward to hearing about your future successes.",
+          "I look forward to seeing how {N} continues to develop their skills and interests in the coming months, building on the strong progress made so far.",
+          "Congratulations on a successful year of learning! I wish {N} all the best next year!"
+      ]
+  },
+  "subjects": ["Core Competencies", "French Language Arts", "English Language Arts", "Math", "Science", "Social Studies", "Phys Ed", "Art", "ADST", "Career Ed"],
+  "topics": {
+      "Term 1": {
+          "French Language Arts": [
+              { "name": "Fr. Reading", "showName": true },
+              { "name": "Fr. Writing", "showName": true },
+              { "name": "Fr. Oral Language", "showName": true },
+              { "name": "Fr. Next Steps", "showName": true }
+          ],
+          "English Language Arts": [
+              { "name": "Reading", "showName": true },
+              { "name": "Writing", "showName": true },
+              { "name": "Oral Language", "showName": true },
+              { "name": "Next Steps", "showName": true }
+          ]
+      },
+      "Term 2": {
+          "French Language Arts": [
+              { "name": "Fr. Reading", "showName": true },
+              { "name": "Fr. Writing", "showName": true },
+              { "name": "Fr. Oral Language", "showName": true },
+              { "name": "Fr. Next Steps", "showName": true }
+          ],
+          "English Language Arts": [
+              { "name": "Reading", "showName": true },
+              { "name": "Writing", "showName": true },
+              { "name": "Oral Language", "showName": true },
+              { "name": "Next Steps", "showName": true }
+          ]
+      },
+      "Term 3": {
+          "French Language Arts": [
+              { "name": "Fr. Reading", "showName": true },
+              { "name": "Fr. Writing", "showName": true },
+              { "name": "Fr. Oral Language", "showName": true },
+              { "name": "Fr. Next Steps", "showName": true }
+          ],
+          "English Language Arts": [
+              { "name": "Reading", "showName": true },
+              { "name": "Writing", "showName": true },
+              { "name": "Oral Language", "showName": true },
+              { "name": "Next Steps", "showName": true }
+          ]
+      }
+  },
+  "marks": ["Extending", "Proficient", "Developing", "Emerging"]
+}
