@@ -1,7 +1,13 @@
 [
   {
+    "id": "bc-g45-french-upd",
+    "name": "BC - Grade 4/5 French Immersion (Full)",
+    "description": "Standard curriculum subjects and evaluation dictionaries for Grade 4/5.",
+    "url": "https://raw.githubusercontent.com/silverlabstudios/reporting-templates/main/bc-g45-french-upd.json"
+  },
+  {
     "id": "bc-g45-french",
-    "name": "BC - Grade 4/5 French Immersion",
+    "name": "OLD - BC - Grade 4/5 French Immersion",
     "description": "Standard curriculum subjects and evaluation dictionaries for Grade 4/5.",
     "url": "https://raw.githubusercontent.com/silverlabstudios/reporting-templates/main/bc-g45-french.json"
   }
