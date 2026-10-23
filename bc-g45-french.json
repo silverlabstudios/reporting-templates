@@ -21,13 +21,13 @@
     "Core Competencies",
     "French Language Arts",
     "English Language Arts",
-    "Math",
+    "Mathematics",
     "Science",
     "Social Studies",
-    "Phys Ed",
-    "Art",
-    "ADST",
-    "Career Ed"
+    "Physical and Health Education",
+    "Arts Education",
+    "Applied Design, Skills and Technologies",
+    "Career Education"
   ],
   "dropdowns": {
     "Intro Comment": {
@@ -232,7 +232,7 @@
           "showName": true
         }
       ],
-      "Math": [
+      "Mathematics": [
         {
           "name": "General",
           "showName": false
@@ -306,7 +306,7 @@
           "showName": false
         }
       ],
-      "Phys Ed": [
+      "Physical and Health Education": [
         {
           "name": "General",
           "showName": false
@@ -328,7 +328,7 @@
           "showName": false
         }
       ],
-      "Art": [
+      "Arts Education": [
         {
           "name": "General",
           "showName": false
@@ -346,7 +346,7 @@
           "showName": false
         }
       ],
-      "ADST": [
+      "Applied Design, Skills and Technologies": [
         {
           "name": "General",
           "showName": false
@@ -364,7 +364,7 @@
           "showName": false
         }
       ],
-      "Career Ed": [
+      "Career Education": [
         {
           "name": "General",
           "showName": false
@@ -434,7 +434,7 @@
           "showName": true
         }
       ],
-      "Math": [
+      "Mathematics": [
         {
           "name": "General",
           "showName": false
@@ -508,7 +508,7 @@
           "showName": false
         }
       ],
-      "Phys Ed": [
+      "Physical and Health Education": [
         {
           "name": "General",
           "showName": false
@@ -530,7 +530,7 @@
           "showName": false
         }
       ],
-      "Art": [
+      "Arts Education": [
         {
           "name": "General",
           "showName": false
@@ -548,7 +548,7 @@
           "showName": false
         }
       ],
-      "ADST": [
+      "Applied Design, Skills and Technologies": [
         {
           "name": "General",
           "showName": false
@@ -566,7 +566,7 @@
           "showName": false
         }
       ],
-      "Career Ed": [
+      "Career Education": [
         {
           "name": "General",
           "showName": false
@@ -636,7 +636,7 @@
           "showName": true
         }
       ],
-      "Math": [
+      "Mathematics": [
         {
           "name": "General",
           "showName": false
@@ -710,7 +710,7 @@
           "showName": false
         }
       ],
-      "Phys Ed": [
+      "Physical and Health Education": [
         {
           "name": "General",
           "showName": false
@@ -732,7 +732,7 @@
           "showName": false
         }
       ],
-      "Art": [
+      "Arts Education": [
         {
           "name": "General",
           "showName": false
@@ -750,7 +750,7 @@
           "showName": false
         }
       ],
-      "ADST": [
+      "Applied Design, Skills and Technologies": [
         {
           "name": "General",
           "showName": false
@@ -768,7 +768,7 @@
           "showName": false
         }
       ],
-      "Career Ed": [
+      "Career Education": [
         {
           "name": "General",
           "showName": false
@@ -1078,7 +1078,7 @@
           }
         }
       },
-      "Math": {
+      "Mathematics": {
         "Number Sense": {
           "Extending": {
             "All Grades": [
@@ -1238,26 +1238,26 @@
         "General": {
           "Extending": {
             "All Grades": [
-              "{N} has demonstrated an in-depth understanding of the learning standards in Math this term and consistently applies {o} learning in new and creative ways.",
-              "{P} approaches Math with curiosity and confidence, often extending {o} thinking beyond the lesson."
+              "{N} has demonstrated an in-depth understanding of the learning standards in Mathematics this term and consistently applies {o} learning in new and creative ways.",
+              "{P} approaches Mathematics with curiosity and confidence, often extending {o} thinking beyond the lesson."
             ]
           },
           "Proficient": {
             "All Grades": [
-              "{N} has demonstrated a complete understanding of the learning standards in Math this term.",
-              "{P} participates fully in Math and applies {o} skills with growing independence."
+              "{N} has demonstrated a complete understanding of the learning standards in Mathematics this term.",
+              "{P} participates fully in Mathematics and applies {o} skills with growing independence."
             ]
           },
           "Developing": {
             "All Grades": [
-              "{N} has demonstrated a partial understanding of the learning standards in Math this term and is making steady progress.",
-              "{P} is building {o} skills in Math and benefits from continued practice and support."
+              "{N} has demonstrated a partial understanding of the learning standards in Mathematics this term and is making steady progress.",
+              "{P} is building {o} skills in Mathematics and benefits from continued practice and support."
             ]
           },
           "Emerging": {
             "All Grades": [
-              "{N} has demonstrated an initial understanding of the learning standards in Math this term.",
-              "{P} is beginning to develop {o} skills in Math and benefits from regular check-ins and one-on-one support."
+              "{N} has demonstrated an initial understanding of the learning standards in Mathematics this term.",
+              "{P} is beginning to develop {o} skills in Mathematics and benefits from regular check-ins and one-on-one support."
             ]
           }
         }
@@ -1526,7 +1526,7 @@
           }
         }
       },
-      "Phys Ed": {
+      "Physical and Health Education": {
         "Physical Literacy": {
           "Extending": {
             "All Grades": [
@@ -1582,7 +1582,7 @@
         "Teamwork & Fair Play": {
           "Extending": {
             "All Grades": [
-              "{N} is a positive leader in Phys Ed, demonstrating excellent sportsmanship and encouraging others.",
+              "{N} is a positive leader in Physical and Health Education, demonstrating excellent sportsmanship and encouraging others.",
               "{P} works cooperatively with all classmates and handles both winning and losing with grace."
             ]
           },
@@ -1658,7 +1658,7 @@
           }
         }
       },
-      "Art": {
+      "Arts Education": {
         "Creating & Exploring": {
           "Extending": {
             "All Grades": [
@@ -1740,31 +1740,31 @@
         "General": {
           "Extending": {
             "All Grades": [
-              "{N} has demonstrated an in-depth understanding of the learning standards in Art this term and consistently applies {o} learning in new and creative ways.",
-              "{P} approaches Art with curiosity and confidence, often extending {o} thinking beyond the lesson."
+              "{N} has demonstrated an in-depth understanding of the learning standards in Arts Education this term and consistently applies {o} learning in new and creative ways.",
+              "{P} approaches Arts Education with curiosity and confidence, often extending {o} thinking beyond the lesson."
             ]
           },
           "Proficient": {
             "All Grades": [
-              "{N} has demonstrated a complete understanding of the learning standards in Art this term.",
-              "{P} participates fully in Art and applies {o} skills with growing independence."
+              "{N} has demonstrated a complete understanding of the learning standards in Arts Education this term.",
+              "{P} participates fully in Arts Education and applies {o} skills with growing independence."
             ]
           },
           "Developing": {
             "All Grades": [
-              "{N} has demonstrated a partial understanding of the learning standards in Art this term and is making steady progress.",
-              "{P} is building {o} skills in Art and benefits from continued practice and support."
+              "{N} has demonstrated a partial understanding of the learning standards in Arts Education this term and is making steady progress.",
+              "{P} is building {o} skills in Arts Education and benefits from continued practice and support."
             ]
           },
           "Emerging": {
             "All Grades": [
-              "{N} has demonstrated an initial understanding of the learning standards in Art this term.",
-              "{P} is beginning to develop {o} skills in Art and benefits from regular check-ins and one-on-one support."
+              "{N} has demonstrated an initial understanding of the learning standards in Arts Education this term.",
+              "{P} is beginning to develop {o} skills in Arts Education and benefits from regular check-ins and one-on-one support."
             ]
           }
         }
       },
-      "ADST": {
+      "Applied Design, Skills and Technologies": {
         "Design Process": {
           "Extending": {
             "All Grades": [
@@ -1870,7 +1870,7 @@
           }
         }
       },
-      "Career Ed": {
+      "Career Education": {
         "Personal Development": {
           "Extending": {
             "All Grades": [
@@ -2266,7 +2266,7 @@
           }
         }
       },
-      "Math": {
+      "Mathematics": {
         "Number Sense": {
           "Extending": {
             "All Grades": [
@@ -2426,26 +2426,26 @@
         "General": {
           "Extending": {
             "All Grades": [
-              "{N} has demonstrated an in-depth understanding of the learning standards in Math this term and consistently applies {o} learning in new and creative ways.",
-              "{P} approaches Math with curiosity and confidence, often extending {o} thinking beyond the lesson."
+              "{N} has demonstrated an in-depth understanding of the learning standards in Mathematics this term and consistently applies {o} learning in new and creative ways.",
+              "{P} approaches Mathematics with curiosity and confidence, often extending {o} thinking beyond the lesson."
             ]
           },
           "Proficient": {
             "All Grades": [
-              "{N} has demonstrated a complete understanding of the learning standards in Math this term.",
-              "{P} participates fully in Math and applies {o} skills with growing independence."
+              "{N} has demonstrated a complete understanding of the learning standards in Mathematics this term.",
+              "{P} participates fully in Mathematics and applies {o} skills with growing independence."
             ]
           },
           "Developing": {
             "All Grades": [
-              "{N} has demonstrated a partial understanding of the learning standards in Math this term and is making steady progress.",
-              "{P} is building {o} skills in Math and benefits from continued practice and support."
+              "{N} has demonstrated a partial understanding of the learning standards in Mathematics this term and is making steady progress.",
+              "{P} is building {o} skills in Mathematics and benefits from continued practice and support."
             ]
           },
           "Emerging": {
             "All Grades": [
-              "{N} has demonstrated an initial understanding of the learning standards in Math this term.",
-              "{P} is beginning to develop {o} skills in Math and benefits from regular check-ins and one-on-one support."
+              "{N} has demonstrated an initial understanding of the learning standards in Mathematics this term.",
+              "{P} is beginning to develop {o} skills in Mathematics and benefits from regular check-ins and one-on-one support."
             ]
           }
         }
@@ -2714,7 +2714,7 @@
           }
         }
       },
-      "Phys Ed": {
+      "Physical and Health Education": {
         "Physical Literacy": {
           "Extending": {
             "All Grades": [
@@ -2770,7 +2770,7 @@
         "Teamwork & Fair Play": {
           "Extending": {
             "All Grades": [
-              "{N} is a positive leader in Phys Ed, demonstrating excellent sportsmanship and encouraging others.",
+              "{N} is a positive leader in Physical and Health Education, demonstrating excellent sportsmanship and encouraging others.",
               "{P} works cooperatively with all classmates and handles both winning and losing with grace."
             ]
           },
@@ -2846,7 +2846,7 @@
           }
         }
       },
-      "Art": {
+      "Arts Education": {
         "Creating & Exploring": {
           "Extending": {
             "All Grades": [
@@ -2928,31 +2928,31 @@
         "General": {
           "Extending": {
             "All Grades": [
-              "{N} has demonstrated an in-depth understanding of the learning standards in Art this term and consistently applies {o} learning in new and creative ways.",
-              "{P} approaches Art with curiosity and confidence, often extending {o} thinking beyond the lesson."
+              "{N} has demonstrated an in-depth understanding of the learning standards in Arts Education this term and consistently applies {o} learning in new and creative ways.",
+              "{P} approaches Arts Education with curiosity and confidence, often extending {o} thinking beyond the lesson."
             ]
           },
           "Proficient": {
             "All Grades": [
-              "{N} has demonstrated a complete understanding of the learning standards in Art this term.",
-              "{P} participates fully in Art and applies {o} skills with growing independence."
+              "{N} has demonstrated a complete understanding of the learning standards in Arts Education this term.",
+              "{P} participates fully in Arts Education and applies {o} skills with growing independence."
             ]
           },
           "Developing": {
             "All Grades": [
-              "{N} has demonstrated a partial understanding of the learning standards in Art this term and is making steady progress.",
-              "{P} is building {o} skills in Art and benefits from continued practice and support."
+              "{N} has demonstrated a partial understanding of the learning standards in Arts Education this term and is making steady progress.",
+              "{P} is building {o} skills in Arts Education and benefits from continued practice and support."
             ]
           },
           "Emerging": {
             "All Grades": [
-              "{N} has demonstrated an initial understanding of the learning standards in Art this term.",
-              "{P} is beginning to develop {o} skills in Art and benefits from regular check-ins and one-on-one support."
+              "{N} has demonstrated an initial understanding of the learning standards in Arts Education this term.",
+              "{P} is beginning to develop {o} skills in Arts Education and benefits from regular check-ins and one-on-one support."
             ]
           }
         }
       },
-      "ADST": {
+      "Applied Design, Skills and Technologies": {
         "Design Process": {
           "Extending": {
             "All Grades": [
@@ -3058,7 +3058,7 @@
           }
         }
       },
-      "Career Ed": {
+      "Career Education": {
         "Personal Development": {
           "Extending": {
             "All Grades": [
@@ -3454,7 +3454,7 @@
           }
         }
       },
-      "Math": {
+      "Mathematics": {
         "Number Sense": {
           "Extending": {
             "All Grades": [
@@ -3614,26 +3614,26 @@
         "General": {
           "Extending": {
             "All Grades": [
-              "{N} has demonstrated an in-depth understanding of the learning standards in Math this term and consistently applies {o} learning in new and creative ways.",
-              "{P} approaches Math with curiosity and confidence, often extending {o} thinking beyond the lesson."
+              "{N} has demonstrated an in-depth understanding of the learning standards in Mathematics this term and consistently applies {o} learning in new and creative ways.",
+              "{P} approaches Mathematics with curiosity and confidence, often extending {o} thinking beyond the lesson."
             ]
           },
           "Proficient": {
             "All Grades": [
-              "{N} has demonstrated a complete understanding of the learning standards in Math this term.",
-              "{P} participates fully in Math and applies {o} skills with growing independence."
+              "{N} has demonstrated a complete understanding of the learning standards in Mathematics this term.",
+              "{P} participates fully in Mathematics and applies {o} skills with growing independence."
             ]
           },
           "Developing": {
             "All Grades": [
-              "{N} has demonstrated a partial understanding of the learning standards in Math this term and is making steady progress.",
-              "{P} is building {o} skills in Math and benefits from continued practice and support."
+              "{N} has demonstrated a partial understanding of the learning standards in Mathematics this term and is making steady progress.",
+              "{P} is building {o} skills in Mathematics and benefits from continued practice and support."
             ]
           },
           "Emerging": {
             "All Grades": [
-              "{N} has demonstrated an initial understanding of the learning standards in Math this term.",
-              "{P} is beginning to develop {o} skills in Math and benefits from regular check-ins and one-on-one support."
+              "{N} has demonstrated an initial understanding of the learning standards in Mathematics this term.",
+              "{P} is beginning to develop {o} skills in Mathematics and benefits from regular check-ins and one-on-one support."
             ]
           }
         }
@@ -3902,7 +3902,7 @@
           }
         }
       },
-      "Phys Ed": {
+      "Physical and Health Education": {
         "Physical Literacy": {
           "Extending": {
             "All Grades": [
@@ -3958,7 +3958,7 @@
         "Teamwork & Fair Play": {
           "Extending": {
             "All Grades": [
-              "{N} is a positive leader in Phys Ed, demonstrating excellent sportsmanship and encouraging others.",
+              "{N} is a positive leader in Physical and Health Education, demonstrating excellent sportsmanship and encouraging others.",
               "{P} works cooperatively with all classmates and handles both winning and losing with grace."
             ]
           },
@@ -4034,7 +4034,7 @@
           }
         }
       },
-      "Art": {
+      "Arts Education": {
         "Creating & Exploring": {
           "Extending": {
             "All Grades": [
@@ -4116,31 +4116,31 @@
         "General": {
           "Extending": {
             "All Grades": [
-              "{N} has demonstrated an in-depth understanding of the learning standards in Art this term and consistently applies {o} learning in new and creative ways.",
-              "{P} approaches Art with curiosity and confidence, often extending {o} thinking beyond the lesson."
+              "{N} has demonstrated an in-depth understanding of the learning standards in Arts Education this term and consistently applies {o} learning in new and creative ways.",
+              "{P} approaches Arts Education with curiosity and confidence, often extending {o} thinking beyond the lesson."
             ]
           },
           "Proficient": {
             "All Grades": [
-              "{N} has demonstrated a complete understanding of the learning standards in Art this term.",
-              "{P} participates fully in Art and applies {o} skills with growing independence."
+              "{N} has demonstrated a complete understanding of the learning standards in Arts Education this term.",
+              "{P} participates fully in Arts Education and applies {o} skills with growing independence."
             ]
           },
           "Developing": {
             "All Grades": [
-              "{N} has demonstrated a partial understanding of the learning standards in Art this term and is making steady progress.",
-              "{P} is building {o} skills in Art and benefits from continued practice and support."
+              "{N} has demonstrated a partial understanding of the learning standards in Arts Education this term and is making steady progress.",
+              "{P} is building {o} skills in Arts Education and benefits from continued practice and support."
             ]
           },
           "Emerging": {
             "All Grades": [
-              "{N} has demonstrated an initial understanding of the learning standards in Art this term.",
-              "{P} is beginning to develop {o} skills in Art and benefits from regular check-ins and one-on-one support."
+              "{N} has demonstrated an initial understanding of the learning standards in Arts Education this term.",
+              "{P} is beginning to develop {o} skills in Arts Education and benefits from regular check-ins and one-on-one support."
             ]
           }
         }
       },
-      "ADST": {
+      "Applied Design, Skills and Technologies": {
         "Design Process": {
           "Extending": {
             "All Grades": [
@@ -4246,7 +4246,7 @@
           }
         }
       },
-      "Career Ed": {
+      "Career Education": {
         "Personal Development": {
           "Extending": {
             "All Grades": [
